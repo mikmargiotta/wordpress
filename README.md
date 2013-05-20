@@ -1,4 +1,4 @@
 wordpress
 =========
 
-Wordpress personal functions
+Wordpress personal snippets functions
