@@ -1,6 +1,7 @@
 <?php 
 //http://www.paulund.co.uk/how-to-customise-the-wordpress-login-page-2
 //http://www.wprecipes.com/customize-wordpress-login-logo-without-a-plugin
+//http://wp.smashingmagazine.com/2012/05/17/customize-wordpress-admin-easily/
 
 //Custom Login Access
 function my_custom_login_logo()
